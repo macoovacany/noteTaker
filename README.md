@@ -1,6 +1,10 @@
 # 11 Express.js: Note Taker
 
- * Example Application
+ * [Deployed Heroku Application](https://fsf-timmck-notetaker.herokuapp.com/)
+
+## Purpose
+
+The purpose of this assignment is to demonstrate the ability to write back end code to handle  GET, POST and DELETE requests.
 
 ## Features 
 
@@ -10,7 +14,3 @@
 ## Missing Features 
 
 * Edit Notes
-
-## Purpose
-
-The purpose of this assignment is to demonstrate the ability to write back end code to handle  GET, POST and DELETE requests.
